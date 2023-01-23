@@ -1,0 +1,17 @@
+/Users/Drew/Documents/MSSA/MSSA_Lab_Code/SlotMachine_console/SlotMachine_console/bin/Debug/net6.0/SlotMachine_console
+/Users/Drew/Documents/MSSA/MSSA_Lab_Code/SlotMachine_console/SlotMachine_console/bin/Debug/net6.0/SlotMachine_console.deps.json
+/Users/Drew/Documents/MSSA/MSSA_Lab_Code/SlotMachine_console/SlotMachine_console/bin/Debug/net6.0/SlotMachine_console.runtimeconfig.json
+/Users/Drew/Documents/MSSA/MSSA_Lab_Code/SlotMachine_console/SlotMachine_console/bin/Debug/net6.0/SlotMachine_console.dll
+/Users/Drew/Documents/MSSA/MSSA_Lab_Code/SlotMachine_console/SlotMachine_console/bin/Debug/net6.0/SlotMachine_console.pdb
+/Users/Drew/Documents/MSSA/MSSA_Lab_Code/SlotMachine_console/SlotMachine_console/obj/Debug/net6.0/SlotMachine_console.csproj.AssemblyReference.cache
+/Users/Drew/Documents/MSSA/MSSA_Lab_Code/SlotMachine_console/SlotMachine_console/obj/Debug/net6.0/SlotMachine_console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Drew/Documents/MSSA/MSSA_Lab_Code/SlotMachine_console/SlotMachine_console/obj/Debug/net6.0/SlotMachine_console.AssemblyInfoInputs.cache
+/Users/Drew/Documents/MSSA/MSSA_Lab_Code/SlotMachine_console/SlotMachine_console/obj/Debug/net6.0/SlotMachine_console.AssemblyInfo.cs
+/Users/Drew/Documents/MSSA/MSSA_Lab_Code/SlotMachine_console/SlotMachine_console/obj/Debug/net6.0/SlotMachine_console.csproj.CoreCompileInputs.cache
+/Users/Drew/Documents/MSSA/MSSA_Lab_Code/SlotMachine_console/SlotMachine_console/obj/Debug/net6.0/SlotMachine_console.dll
+/Users/Drew/Documents/MSSA/MSSA_Lab_Code/SlotMachine_console/SlotMachine_console/obj/Debug/net6.0/refint/SlotMachine_console.dll
+/Users/Drew/Documents/MSSA/MSSA_Lab_Code/SlotMachine_console/SlotMachine_console/obj/Debug/net6.0/SlotMachine_console.pdb
+/Users/Drew/Documents/MSSA/MSSA_Lab_Code/SlotMachine_console/SlotMachine_console/obj/Debug/net6.0/SlotMachine_console.genruntimeconfig.cache
+/Users/Drew/Documents/MSSA/MSSA_Lab_Code/SlotMachine_console/SlotMachine_console/obj/Debug/net6.0/ref/SlotMachine_console.dll
+/Users/Drew/Documents/MSSA/MSSA_Lab_Code/SlotMachine_console/SlotMachine_console/bin/Debug/net6.0/Figgle.dll
+/Users/Drew/Documents/MSSA/MSSA_Lab_Code/SlotMachine_console/SlotMachine_console/obj/Debug/net6.0/SlotMachine_console.csproj.CopyComplete

@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Drew/Documents/MSSA/MSSA_Lab_Code/SlotMachine_console/SlotMachine_console/SlotMachine_console.csproj": {}
+  },
+  "projects": {
+    "/Users/Drew/Documents/MSSA/MSSA_Lab_Code/SlotMachine_console/SlotMachine_console/SlotMachine_console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Drew/Documents/MSSA/MSSA_Lab_Code/SlotMachine_console/SlotMachine_console/SlotMachine_console.csproj",
+        "projectName": "SlotMachine_console",
+        "projectPath": "/Users/Drew/Documents/MSSA/MSSA_Lab_Code/SlotMachine_console/SlotMachine_console/SlotMachine_console.csproj",
+        "packagesPath": "/Users/Drew/.nuget/packages/",
+        "outputPath": "/Users/Drew/Documents/MSSA/MSSA_Lab_Code/SlotMachine_console/SlotMachine_console/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Drew/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Figgle": {
+              "target": "Package",
+              "version": "[0.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
